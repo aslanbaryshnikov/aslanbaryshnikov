@@ -5,7 +5,7 @@
 <h1><img
 src="https://raw.githubusercontent.com/aslanbaryshnikov/aslanbaryshnikov/main/Hi.gif" height="32" /> Hey! Nice to see you.</h1>
 
-I'm Aslan, a fullstack web developer, self taught. I have been creating stupid sites for 3 years and recently decided to move into the world of programming. I chose to learn JavaScript because I can use it to quickly implement ideas. I'm not going to be limited to one language in the future.
+I am Aslan, fullstack web developer, self taught. I have been creating websites on CMS for 3 years and recently decided to move into the world of real programming. I chose JavaScript because I can use it to quickly implement ideas. In the future, I am not going to be limited to one language.
 
 - 🔭 Currently working on: blog, portfolio
 - 🌱 Сurrently learning: Node.js, React.
@@ -31,7 +31,6 @@ I'm Aslan, a fullstack web developer, self taught. I have been creating stupid s
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
