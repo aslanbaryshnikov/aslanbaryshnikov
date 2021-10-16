@@ -7,10 +7,10 @@ src="https://raw.githubusercontent.com/aslanbaryshnikov/aslanbaryshnikov/main/Hi
 
 I am Aslan, fullstack web developer, self taught. I have been creating websites on CMS for 3 years and recently decided to move into the world of real programming. I chose JavaScript because I can use it to quickly implement ideas. In the future, I am not going to be limited to one language.
 
-- 🔭 Currently working on: blog, portfolio
+- 🔭 Currently working on: blog, portfolio.
 - 🌱 Сurrently learning: Node.js, React.
-- 📖 Currently reading: Grokking Algorithms — Aditya Bhargava
-- ⚡ Fact: I love short and high-quality code that solves its task
+- 📖 Currently reading: Grokking Algorithms — Aditya Bhargava.
+- ⚡ Fact: I love short and high-quality code that solves its task.
 
 <h2>📫 How to reach me:</h2>
 
